@@ -1,0 +1,6 @@
+C:\Users\nparu\documents\visual studio 2013\Projects\MicrowaveOvenController\MicrowaveOvenController\bin\Debug\MicrowaveOvenController.exe.config
+C:\Users\nparu\documents\visual studio 2013\Projects\MicrowaveOvenController\MicrowaveOvenController\bin\Debug\MicrowaveOvenController.exe
+C:\Users\nparu\documents\visual studio 2013\Projects\MicrowaveOvenController\MicrowaveOvenController\bin\Debug\MicrowaveOvenController.pdb
+C:\Users\nparu\documents\visual studio 2013\Projects\MicrowaveOvenController\MicrowaveOvenController\obj\Debug\MicrowaveOvenController.exe
+C:\Users\nparu\documents\visual studio 2013\Projects\MicrowaveOvenController\MicrowaveOvenController\obj\Debug\MicrowaveOvenController.pdb
+C:\Users\nparu\documents\visual studio 2013\Projects\MicrowaveOvenController\MicrowaveOvenController\obj\Debug\MicrowaveOvenController.csprojResolveAssemblyReference.cache

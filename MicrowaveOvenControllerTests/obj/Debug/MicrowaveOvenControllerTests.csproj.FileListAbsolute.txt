@@ -1,0 +1,16 @@
+C:\Users\nparu\documents\visual studio 2013\Projects\MicrowaveOvenController\MicrowaveOvenControllerTests\bin\Debug\MicrowaveOvenControllerTests.dll
+C:\Users\nparu\documents\visual studio 2013\Projects\MicrowaveOvenController\MicrowaveOvenControllerTests\bin\Debug\MicrowaveOvenController.exe
+C:\Users\nparu\documents\visual studio 2013\Projects\MicrowaveOvenController\MicrowaveOvenControllerTests\bin\Debug\MicrowaveOvenController.pdb
+C:\Users\nparu\documents\visual studio 2013\Projects\MicrowaveOvenController\MicrowaveOvenControllerTests\obj\Debug\MicrowaveOvenControllerTests.csprojResolveAssemblyReference.cache
+C:\Users\nparu\documents\visual studio 2013\Projects\MicrowaveOvenController\MicrowaveOvenControllerTests\obj\Debug\MicrowaveOvenControllerTests.dll
+C:\Users\nparu\documents\visual studio 2013\Projects\MicrowaveOvenController\MicrowaveOvenControllerTests\obj\Debug\MicrowaveOvenControllerTests.pdb
+C:\Users\nparu\documents\visual studio 2013\Projects\MicrowaveOvenController\MicrowaveOvenControllerTests\bin\Debug\MicrowaveOvenControllerTests.pdb
+C:\Users\nparu\Documents\Visual Studio 2013\Projects\MicrowaveOvenController\MicrowaveOvenControllerTests\bin\Debug\Castle.Core.dll
+C:\Users\nparu\Documents\Visual Studio 2013\Projects\MicrowaveOvenController\MicrowaveOvenControllerTests\bin\Debug\Moq.dll
+C:\Users\nparu\Documents\Visual Studio 2013\Projects\MicrowaveOvenController\MicrowaveOvenControllerTests\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\nparu\Documents\Visual Studio 2013\Projects\MicrowaveOvenController\MicrowaveOvenControllerTests\bin\Debug\System.ValueTuple.dll
+C:\Users\nparu\Documents\Visual Studio 2013\Projects\MicrowaveOvenController\MicrowaveOvenControllerTests\bin\Debug\Castle.Core.xml
+C:\Users\nparu\Documents\Visual Studio 2013\Projects\MicrowaveOvenController\MicrowaveOvenControllerTests\bin\Debug\Moq.pdb
+C:\Users\nparu\Documents\Visual Studio 2013\Projects\MicrowaveOvenController\MicrowaveOvenControllerTests\bin\Debug\Moq.xml
+C:\Users\nparu\Documents\Visual Studio 2013\Projects\MicrowaveOvenController\MicrowaveOvenControllerTests\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\nparu\Documents\Visual Studio 2013\Projects\MicrowaveOvenController\MicrowaveOvenControllerTests\bin\Debug\System.ValueTuple.xml
